@@ -21,3 +21,11 @@ func main() {
 		}
 	}
 }
+
+
+`to do 
+1. learn about array slicing
+2. see how pointers are implemented
+3. do some struct and pseudo class work
+4. do some concurrency if you want to get fancy
+``
